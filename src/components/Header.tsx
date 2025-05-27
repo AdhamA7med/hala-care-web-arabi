@@ -79,7 +79,7 @@ const Header = () => {
           {/* Contact Button */}
           <div className="hidden md:block">
             <a
-              href="https://wa.me/201008481613"
+              href="https://wa.me/201121400560"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-medical"
@@ -136,7 +136,7 @@ const Header = () => {
                 اتصل بنا
               </button>
               <a
-                href="https://wa.me/201008481613"
+                href="https://wa.me/201121400560"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block btn-medical text-center"
