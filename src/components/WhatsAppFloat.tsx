@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { MessageCircle } from 'lucide-react';
+import { MessageSquare } from 'lucide-react';
 
 const WhatsAppFloat = () => {
   const openWhatsApp = () => {
@@ -13,7 +13,7 @@ const WhatsAppFloat = () => {
       className="whatsapp-float flex items-center justify-center"
       aria-label="تواصل عبر واتساب"
     >
-      <MessageCircle className="h-8 w-8" />
+      <MessageSquare className="h-8 w-8" />
     </button>
   );
 };

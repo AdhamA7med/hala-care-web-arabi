@@ -39,7 +39,7 @@ const Header = () => {
                 <path d="M20.2 20.2a16 16 0 0 1-16.41 0C3 20 3 14 9 9a2 2 0 0 1 6 0c6 5 6 11 5.2 11.2Z" fill="white"/>
               </svg>
             </div>
-            <span className="text-xl lg:text-2xl font-bold text-primary">حلا كير</span>
+            <span className="text-xl lg:text-2xl font-bold text-primary">هلا كير</span>
           </div>
 
           {/* Desktop Navigation */}

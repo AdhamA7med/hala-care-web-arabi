@@ -5,18 +5,11 @@ import { Phone, MessageCircle, MapPin } from 'lucide-react';
 const HeroSection = () => {
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center medical-gradient overflow-hidden">
-      {/* Background Pattern */}
-      <div className="absolute inset-0 opacity-10">
-        <div className="absolute top-20 right-20 w-40 h-40 bg-white rounded-full animate-pulse-slow"></div>
-        <div className="absolute bottom-20 left-20 w-60 h-60 bg-white/50 rounded-full animate-pulse-slow" style={{animationDelay: '1s'}}></div>
-        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-80 h-80 bg-white/30 rounded-full animate-pulse-slow" style={{animationDelay: '2s'}}></div>
-      </div>
-
       <div className="container mx-auto section-padding relative z-10">
         <div className="text-center text-white">
           {/* Main Heading */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 animate-fade-in">
-            حلا كير
+            هلا كير
             <span className="block text-2xl md:text-3xl lg:text-4xl font-normal mt-2">
               خدمات التمريض المنزلي
             </span>
