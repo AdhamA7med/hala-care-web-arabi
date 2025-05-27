@@ -92,7 +92,7 @@ const ServicesSection = () => {
                 {/* CTA Button */}
                 <div className="mt-6 pt-4 border-t border-gray-100">
                   <a
-                    href="https://wa.me/201008481613"
+                    href="https://wa.me/201121400560"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:text-primary-dark font-semibold text-sm transition-colors duration-300 inline-flex items-center group"
@@ -118,7 +118,7 @@ const ServicesSection = () => {
               نحن هنا لخدمتكم! تواصلوا معنا لمناقشة احتياجاتكم الخاصة وسنقوم بتصميم برنامج رعاية مناسب لحالتكم
             </p>
             <a
-              href="https://wa.me/201008481613"
+              href="https://wa.me/2001121400560"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-medical inline-flex items-center"
