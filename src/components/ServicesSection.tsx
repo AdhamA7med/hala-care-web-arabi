@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Heart, Users, Syringe, Clock, Shield, Star } from 'lucide-react';
+import { Heart, Users, Syringe, Clock, Shield, Star, MessageCircle } from 'lucide-react';
 
 const ServicesSection = () => {
   const services = [
