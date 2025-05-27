@@ -4,7 +4,7 @@ import { MessageSquare } from 'lucide-react';
 
 const WhatsAppFloat = () => {
   const openWhatsApp = () => {
-    window.open('https://wa.me/201008481613', '_blank');
+    window.open('https://wa.me/201121400560', '_blank');
   };
 
   return (
