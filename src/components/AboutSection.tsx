@@ -54,7 +54,7 @@ const AboutSection = () => {
             من نحن
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            حلا كير هي شركة رائدة في مجال خدمات التمريض المنزلي، نسعى لتقديم رعاية طبية متميزة في راحة منازلكم
+            هلا كير هي شركة رائدة في مجال خدمات التمريض المنزلي، نسعى لتقديم رعاية طبية متميزة في راحة منازلكم
           </p>
         </div>
 
@@ -65,7 +65,7 @@ const AboutSection = () => {
               رؤيتنا ورسالتنا
             </h3>
             <p className="text-gray-600 leading-relaxed">
-              في حلا كير، نؤمن بأن كل شخص يستحق الحصول على رعاية طبية عالية الجودة في راحة منزله. نحن نجمع بين الخبرة الطبية المتخصصة والرعاية الإنسانية لنقدم خدمات تمريض منزلي تتجاوز توقعاتكم.
+              في هلا كير، نؤمن بأن كل شخص يستحق الحصول على رعاية طبية عالية الجودة في راحة منزله. نحن نجمع بين الخبرة الطبية المتخصصة والرعاية الإنسانية لنقدم خدمات تمريض منزلي تتجاوز توقعاتكم.
             </p>
             <p className="text-gray-600 leading-relaxed">
               فريقنا من الممرضين والممرضات المرخصين يتمتع بسنوات من الخبرة في المجال الطبي، ونحن ملتزمون بالتطوير المستمر ومواكبة أحدث المعايير الطبية العالمية.
@@ -73,7 +73,7 @@ const AboutSection = () => {
             
             {/* Why Choose Us */}
             <div className="mt-8">
-              <h4 className="text-xl font-bold text-gray-900 mb-4">لماذا تختار حلا كير؟</h4>
+              <h4 className="text-xl font-bold text-gray-900 mb-4">لماذا تختار هلا كير؟</h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {values.map((value, index) => (
                   <div key={index} className="bg-medical-gray rounded-lg p-4">
