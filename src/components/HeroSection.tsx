@@ -39,7 +39,7 @@ const HeroSection = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in" style={{animationDelay: '0.9s'}}>
             <a
-              href="https://wa.me/201008481613"
+              href="https://wa.me/201121400560"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center bg-white text-primary hover:bg-gray-100 font-bold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
@@ -48,11 +48,11 @@ const HeroSection = () => {
               تواصل عبر واتساب
             </a>
             <a
-              href="tel:01008481613"
+              href="tel:01121400560"
               className="flex items-center bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary font-bold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105"
             >
               <Phone className="ml-2 h-6 w-6" />
-              01008481613
+              01121400560
             </a>
           </div>
 
