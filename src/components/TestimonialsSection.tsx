@@ -193,7 +193,7 @@ const TestimonialsSection = () => {
             انضم إلى المئات من العملاء الذين يثقون في خدماتنا
           </p>
           <a
-            href="https://wa.me/201008481613"
+            href="https://wa.me/201121400560"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-medical"
