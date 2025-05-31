@@ -9,7 +9,7 @@ const HeroSection = () => {
         <div className="text-center text-white">
           {/* Main Heading */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 animate-fade-in">
-            هلا كير
+مكتب الهدي
             <span className="block text-2xl md:text-3xl lg:text-4xl font-normal mt-2">
               خدمات التمريض المنزلي
             </span>
@@ -39,7 +39,7 @@ const HeroSection = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in" style={{animationDelay: '0.9s'}}>
             <a
-              href="https://wa.me/201121400560"
+              href="https://wa.me/201018485283"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center bg-white text-primary hover:bg-gray-100 font-bold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
@@ -48,11 +48,11 @@ const HeroSection = () => {
               تواصل عبر واتساب
             </a>
             <a
-              href="tel:01121400560"
+              href="tel:01018485283"
               className="flex items-center bg-transparent border-2 border-white text-white hover:bg-white hover:text-primary font-bold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105"
             >
               <Phone className="ml-2 h-6 w-6" />
-              01121400560
+              01018485283
             </a>
           </div>
 
