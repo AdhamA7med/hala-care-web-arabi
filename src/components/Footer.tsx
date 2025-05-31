@@ -20,7 +20,7 @@ const Footer = () => {
                   <path d="M20.2 20.2a16 16 0 0 1-16.41 0C3 20 3 14 9 9a2 2 0 0 1 6 0c6 5 6 11 5.2 11.2Z" fill="white"/>
                 </svg>
               </div>
-              <span className="text-2xl font-bold">هلا كير</span>
+              <span className="text-2xl font-bold">مكتب الهدي</span>
             </div>
             <p className="text-gray-300 leading-relaxed">
               خدمات التمريض المنزلي المتخصصة في القاهرة، مصر. نقدم رعاية طبية احترافية في راحة منزلكم مع فريق من أفضل الممرضين المرخصين.
@@ -112,19 +112,19 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center">
                 <Phone className="h-5 w-5 text-primary ml-2 flex-shrink-0" />
-                <a href="tel:01121400560" className="text-gray-300 hover:text-primary transition-colors duration-300">
+                <a href="tel:01018485283" className="text-gray-300 hover:text-primary transition-colors duration-300">
                   01121400560
                 </a>
               </div>
               <div className="flex items-center">
                 <MessageCircle className="h-5 w-5 text-primary ml-2 flex-shrink-0" />
                 <a 
-                  href="https://wa.me/201121400560" 
+                  href="https://wa.me/201018485283" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-primary transition-colors duration-300"
                 >
-                  واتساب: 01121400560
+                  واتساب: 01018485283
                 </a>
               </div>
               <div className="flex items-center">
@@ -137,11 +137,11 @@ const Footer = () => {
             <div className="bg-red-900/50 rounded-lg p-4 mt-6">
               <h4 className="font-bold text-red-300 mb-2">طوارئ 24/7</h4>
               <a 
-                href="tel:01121400560"
+                href="tel:01018485283"
                 className="flex items-center text-white hover:text-red-300 transition-colors duration-300"
               >
                 <Phone className="h-4 w-4 ml-2" />
-                01121400560
+                01018485283
               </a>
             </div>
           </div>
@@ -151,7 +151,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 هلا كير. جميع الحقوق محفوظة.
+              © 2025 مكتب الهدي. جميع الحقوق محفوظة.
             </p>
             <p className="text-gray-400 text-sm">
               تم تطوير الموقع بواسطة ادهم احمد
