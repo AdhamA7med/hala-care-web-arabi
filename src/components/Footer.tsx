@@ -20,7 +20,7 @@ const Footer = () => {
                   <path d="M20.2 20.2a16 16 0 0 1-16.41 0C3 20 3 14 9 9a2 2 0 0 1 6 0c6 5 6 11 5.2 11.2Z" fill="white"/>
                 </svg>
               </div>
-              <span className="text-2xl font-bold">مكتب الهدي</span>
+              <span className="text-2xl font-bold">مكتب نيرس لاين</span>
             </div>
             <p className="text-gray-300 leading-relaxed">
               خدمات التمريض المنزلي المتخصصة في القاهرة، مصر. نقدم رعاية طبية احترافية في راحة منزلكم مع فريق من أفضل الممرضين المرخصين.
@@ -113,18 +113,18 @@ const Footer = () => {
               <div className="flex items-center">
                 <Phone className="h-5 w-5 text-primary ml-2 flex-shrink-0" />
                 <a href="tel:01018485283" className="text-gray-300 hover:text-primary transition-colors duration-300">
-                  01121400560
+                  01500841180
                 </a>
               </div>
               <div className="flex items-center">
                 <MessageCircle className="h-5 w-5 text-primary ml-2 flex-shrink-0" />
                 <a 
-                  href="https://wa.me/201018485283" 
+                  href="https://wa.me/201500841180" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-primary transition-colors duration-300"
                 >
-                  واتساب: 01018485283
+                  واتساب: 01500841180
                 </a>
               </div>
               <div className="flex items-center">
@@ -141,7 +141,7 @@ const Footer = () => {
                 className="flex items-center text-white hover:text-red-300 transition-colors duration-300"
               >
                 <Phone className="h-4 w-4 ml-2" />
-                01018485283
+                01500841180
               </a>
             </div>
           </div>
