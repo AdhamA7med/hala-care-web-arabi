@@ -7,15 +7,15 @@ const ContactSection = () => {
     {
       icon: Phone,
       title: "اتصل بنا",
-      info: "01018485283",
-      link: "tel:01018485283",
+      info: "01155915415",
+      link: "tel:01155915415",
       description: "متاحون للرد على استفساراتكم"
     },
     {
       icon: MessageSquare,
       title: "واتساب",
-      info: "01500841180",
-      link: "https://wa.me/201500841180",
+      info: "01155915415",
+      link: "https://wa.me/201155915415",
       description: "تواصل سريع ومباشر"
     },
     {
@@ -82,7 +82,7 @@ const ContactSection = () => {
           {/* Contact Actions */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="https://wa.me/201500841180"
+              href="https://wa.me/201155915415"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg text-lg"
@@ -91,7 +91,7 @@ const ContactSection = () => {
               تواصل عبر واتساب
             </a>
             <a
-              href="tel:01500841180"
+              href="tel:01155915415"
               className="flex items-center bg-primary hover:bg-primary-dark text-white font-bold py-4 px-8 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg text-lg"
             >
               <Phone className="h-6 w-6 ml-2" />
@@ -109,11 +109,11 @@ const ContactSection = () => {
             في حالات الطوارئ الطبية، تواصلوا معنا فوراً
           </p>
           <a
-            href="tel:01500841180"
+            href="tel:01155915415"
             className="inline-flex items-center bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-lg transition-colors duration-300 text-lg"
           >
             <Phone className="h-6 w-6 ml-2" />
-            01500841180
+            01155915415
           </a>
         </div>
       </div>
